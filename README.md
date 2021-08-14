@@ -13,3 +13,5 @@ The visualization files goes as follows:
   - [#Plandemic](https://raw.githubusercontent.com/TomTruong062399/capstone_intervention/main/map_analysis/%23Plandemic.gif) *(5/17 - 5/31)*
   - [#AbolishThePolice](https://raw.githubusercontent.com/TomTruong062399/capstone_intervention/main/map_analysis/%23AbolishThePolice.gif) *(5/26 - 6/4)*
   - [#TrumpWon](https://raw.githubusercontent.com/TomTruong062399/capstone_intervention/main/map_analysis/%23TrumpWon.gif) *(11/5 - 11/13)*
+
+*Data can be viewed [here](https://github.com/TomTruong062399/capstone_intervention/tree/main/data)*
